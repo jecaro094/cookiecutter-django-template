@@ -14,4 +14,7 @@ class QrOperator:
 
     def hello_world(self):
         some_venv = getattr(settings, 'SOME_VENV')
-        return f'Hello world from BFF! Some venv: {some_venv}'
+        return (
+            'Hello world from "{{ cookiecutter.project_slug }}" BFF! '
+            f'Some venv: "{some_venv}"'
+        )

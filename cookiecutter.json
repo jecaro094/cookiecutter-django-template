@@ -1,0 +1,10 @@
+{
+  "project_name": "My Django Project",
+  "project_slug": "my_django_project",
+  "postgres_database": "qr_project",
+  "postgres_password": "qr_project",
+  "postgres_user": "qr_project",
+  "postgres_host": "postgres",
+  "postgres_port": "5432",
+  "author_name": "Your Name"
+}
