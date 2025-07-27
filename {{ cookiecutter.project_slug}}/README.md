@@ -1,5 +1,10 @@
 # {{ cookiecutter.project_name }}
 
+To run cookie cutter, use this command:
+
+```bash
+cookiecutter ./cookiexutter-django-template
+```
 
 ## Docker compose
 
