@@ -3,7 +3,7 @@
 To run cookie cutter, use this command:
 
 ```bash
-cookiecutter ./cookiexutter-django-template
+cookiecutter ./cookiecutter-django-template
 ```
 
 ## Docker compose
